@@ -14,13 +14,19 @@
   {
     "brand": "Gac",
     "model": "Обновленный ДжиЭс 8 / GS8",
-    "price": 4054100,
-    "benefit": 894900
+    "price": 4194100,
+    "benefit": 534900
   },
   {
     "brand": "Gac",
     "model": "Эм 8 / M8",
     "price": 6074000,
     "benefit": 675000
+  },
+  {
+    "brand": "Gac",
+    "model": "Эс 9 / S9",
+    "price": 6059000,
+    "benefit": 890000
   }
 ]
