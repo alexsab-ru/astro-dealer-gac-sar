@@ -252,56 +252,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGAE3G88T1005412</unique_id>
-      <url>https://gac-sar.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS4</folder_id>
-      <year>2026</year>
-      <vin>LMGAE3G88T1005412</vin>
-      <price>4049000</price>
-      <sale_price>3199000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>850000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>4</run>
-      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/0/full.webp?v=80c53e2a3703</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/1/full.webp?v=e02f495e8673</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/2/full.webp?v=9e0be662d595</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/3/full.webp?v=9c1da9721265</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/4/full.webp?v=be1c874e6ab5</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/5/full.webp?v=e13cd43f6220</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/6/full.webp?v=9b451311fc1c</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/7/full.webp?v=6acb571f34c8</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/8/full.webp?v=40ead97bd3c8</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/9/full.webp?v=4744304ef34d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/10/full.webp?v=a3806d78ec6b</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/11/full.webp?v=d297179671e9</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/12/full.webp?v=e8091f4fa9ef</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/13/full.webp?v=dc1e514eba95</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/14/full.webp?v=4935799d8e9d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/15/full.webp?v=2686da8ccda7</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/16/full.webp?v=2dc67fa30ce2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/17/full.webp?v=fb031203c699</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/18/full.webp?v=2665294042e2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/19/full.webp?v=544096fc52af</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/20/full.webp?v=a723a67af297</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/21/full.webp?v=69fff5db8755</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/22/full.webp?v=b38253448f1d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/23/full.webp?v=f240ea6be7ff</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/24/full.webp?v=3326a0a09992</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/25/full.webp?v=0146f622daf7</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/26/full.webp?v=d972871d3934</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/27/full.webp?v=920d6cecfef2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/28/full.webp?v=4a654d49d8f8</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGAE3G88T1005412/29/full.webp?v=70d1f6813041</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGBB1L82S3147751</unique_id>
       <url>https://gac-sar.ru/cars/gac-empow-15-amt-170-hp-gl-s-style-white-2025/</url>
       <mark_id>Gac</mark_id>
