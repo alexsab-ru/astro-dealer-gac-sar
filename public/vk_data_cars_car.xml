@@ -334,6 +334,55 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJF3S85T1000513</unique_id>
+      <url>https://gac-sar.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S9</folder_id>
+      <year>2026</year>
+      <vin>LMGJF3S85T1000513</vin>
+      <price>6949000</price>
+      <sale_price>6649000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>29</run>
+      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/1/full.webp?v=d3e6a45eef3b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/2/full.webp?v=0f14d261101f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/3/full.webp?v=cb278063850e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/4/full.webp?v=2487118bc6a4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJF3S89T1000532</unique_id>
+      <url>https://gac-sar.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S9</folder_id>
+      <year>2026</year>
+      <vin>LMGJF3S89T1000532</vin>
+      <price>6949000</price>
+      <sale_price>6649000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/1/full.webp?v=d3e6a45eef3b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/2/full.webp?v=0f14d261101f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/3/full.webp?v=cb278063850e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/4/full.webp?v=2487118bc6a4</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGJU3G53T1068121</unique_id>
       <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</url>
       <mark_id>Gac</mark_id>
@@ -604,54 +653,6 @@
         <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/12/full.webp?v=bbe51fcead76</image>
         <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/13/full.webp?v=5816e9ab723c</image>
         <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/14/full.webp?v=40c974b72533</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G86T1063716</unique_id>
-      <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G86T1063716</vin>
-      <price>4949000</price>
-      <sale_price>3849000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1100000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>4</run>
-      <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/0/full.webp?v=5ecb34d87758</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/1/full.webp?v=aef101e7df4f</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/2/full.webp?v=02972d6b0d4d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/3/full.webp?v=4806a5900017</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/4/full.webp?v=4b2b19ffc560</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/5/full.webp?v=75d68e1d5f94</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/6/full.webp?v=7bbf9da79718</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/7/full.webp?v=854ae09f95d4</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/8/full.webp?v=ff9a4ac5a692</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/9/full.webp?v=b8d5521c93f7</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/10/full.webp?v=7519874f87f8</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/11/full.webp?v=6b726199fd9b</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/12/full.webp?v=4d2dfa3d9327</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/13/full.webp?v=b687aedee0b6</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/14/full.webp?v=5be0f85a383d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/15/full.webp?v=110016dd4181</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/16/full.webp?v=9855721a69f7</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/17/full.webp?v=bc37139df006</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/18/full.webp?v=951e2448e160</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/19/full.webp?v=81972bdb42ee</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/20/full.webp?v=6a6110b5b1ec</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/21/full.webp?v=db1e997acc06</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/22/full.webp?v=f68d92c8933e</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/23/full.webp?v=4d91dfc3a81d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/24/full.webp?v=1106a3edbdf4</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/25/full.webp?v=b8e568a69202</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/26/full.webp?v=c7ad582f5eb2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/27/full.webp?v=fb51feac8988</image>
       </images>
     </car>
     <car>

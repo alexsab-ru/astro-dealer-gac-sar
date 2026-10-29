@@ -194,6 +194,54 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LMGJF3S85T1000513</id>
+    <link>https://gac-sar.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6649000 RUB</sale_price>
+    <min_price>6649000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>29</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S85T1000513</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S89T1000532</id>
+    <link>https://gac-sar.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6649000 RUB</sale_price>
+    <min_price>6649000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S89T1000532</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LMGJU3G53T1068121</id>
     <link>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</link>
     <brand>Gac</brand>
@@ -358,30 +406,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LMGJU3G85T1064808</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LMGJU3G86T1063716</id>
-    <link>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-gray-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GT 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G86T1063716/0/full.webp?v=5ecb34d87758</image_link>
-    <price>4949000 RUB</price>
-    <sale_price>3849000 RUB</sale_price>
-    <min_price>3849000 RUB</min_price>
-    <max_price>4949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>4</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G86T1063716</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
