@@ -843,6 +843,55 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJU3G8XT1066442</unique_id>
+      <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G8XT1066442</vin>
+      <price>5349000</price>
+      <sale_price>4249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1100000</max_benefit>
+      <color>белый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/0/full.webp?v=5592cb80f94d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/1/full.webp?v=48e1f15fd319</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/2/full.webp?v=b772f14b1a67</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/3/full.webp?v=5bf25689cc27</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/4/full.webp?v=b9277fa909e4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/5/full.webp?v=03657a22d27c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/6/full.webp?v=25f4a126c7bc</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/7/full.webp?v=9a9f80ea89be</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/8/full.webp?v=e9ed5fcd7005</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/9/full.webp?v=c3a15b7e832b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/10/full.webp?v=03d328b79286</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/11/full.webp?v=472b63bdaaf9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/12/full.webp?v=24c8e9d28ee8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/13/full.webp?v=709f723c953e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/14/full.webp?v=552bd32a7bc1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/15/full.webp?v=dfeaf3cc941c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/16/full.webp?v=17077e6196b7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/17/full.webp?v=db7c22905745</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/18/full.webp?v=bc42fa2775e3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/19/full.webp?v=db5d18077a1a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/20/full.webp?v=a3532a887d7e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/21/full.webp?v=82d2958c80b6</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/22/full.webp?v=41e28c864b00</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/23/full.webp?v=00810c2283ae</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/24/full.webp?v=df172c118d43</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/25/full.webp?v=fadbc9d2de82</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/26/full.webp?v=e9096a8786da</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/27/full.webp?v=36a3eb18cd9f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/28/full.webp?v=0db90e495de6</image>
+        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/29/full.webp?v=585a2c6c24a1</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGMU1G8XT1318546</unique_id>
       <url>https://gac-sar.ru/cars/gac-m8-20-at-231-hp-gx-premium-black-2026/</url>
       <mark_id>Gac</mark_id>
