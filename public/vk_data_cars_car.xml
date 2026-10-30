@@ -519,45 +519,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGJU3G82T1066564</unique_id>
-      <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G82T1066564</vin>
-      <price>5349000</price>
-      <sale_price>4249000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1100000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>8</run>
-      <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/0/full.webp?v=9e1d4cd47c27</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/1/full.webp?v=4d4b6c0620bc</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/2/full.webp?v=8cfb2fecfe08</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/3/full.webp?v=bf6fa8da6a39</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/4/full.webp?v=68ebe2959efd</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/5/full.webp?v=9b3f31cb8040</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/6/full.webp?v=4b564d603c30</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/7/full.webp?v=2b53ec3afd0c</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/8/full.webp?v=8e7e9ef7efb6</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/9/full.webp?v=4482c59c4fdb</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/10/full.webp?v=417cd417afaa</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/11/full.webp?v=eeb9d08008e3</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/12/full.webp?v=d8d30af4367f</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/13/full.webp?v=be85d845532c</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/14/full.webp?v=51930d91d4e5</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/15/full.webp?v=b9d4769fef41</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/16/full.webp?v=f4c17431d2af</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/17/full.webp?v=6287dc420282</image>
-        <image>https://cdn.alexsab.ru/cars/gac-sar.ru/new/LMGJU3G82T1066564/18/full.webp?v=2285f255fb41</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGJU3G83T1064628</unique_id>
       <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-black-2026/</url>
       <mark_id>Gac</mark_id>
