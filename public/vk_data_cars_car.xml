@@ -29,6 +29,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G53T1004528/7/full.webp?v=4457bfb557f9</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G53T1004528/8/full.webp?v=de83c9bdb63c</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G53T1004528/9/full.webp?v=ea16e690eb43</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G53T1004528/10/full.webp?v=b3f87896a189</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G53T1004528/11/full.webp?v=787ee66b9f23</image>
       </images>
     </car>
     <car>
@@ -59,6 +61,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G59T1004503/7/full.webp?v=3f0cd7764a6a</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G59T1004503/8/full.webp?v=6a09cae97e43</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G59T1004503/9/full.webp?v=0911eee8c513</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G59T1004503/10/full.webp?v=307eca200b38</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G59T1004503/11/full.webp?v=3e8baaf02449</image>
       </images>
     </car>
     <car>
@@ -88,6 +92,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G80T1005968/7/full.webp?v=47eeb9981d2f</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G80T1005968/8/full.webp?v=5df09e81a4aa</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G80T1005968/9/full.webp?v=9f30fe3f6e82</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G80T1005968/10/full.webp?v=41b929a4eb89</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G80T1005968/11/full.webp?v=c88d23b76fe6</image>
       </images>
     </car>
     <car>
@@ -118,6 +124,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G81T1004912/7/full.webp?v=74a8f276a8e2</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G81T1004912/8/full.webp?v=8080faa20624</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G81T1004912/9/full.webp?v=68b94b86a6ac</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G81T1004912/10/full.webp?v=12e4108eced8</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G81T1004912/11/full.webp?v=05b4e677c9fe</image>
       </images>
     </car>
     <car>
@@ -148,6 +156,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/7/full.webp?v=1be111b8d258</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/8/full.webp?v=be9be805d2ae</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/9/full.webp?v=682ca5e4417e</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/10/full.webp?v=19d3ed1a1531</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/11/full.webp?v=12a6a5401af3</image>
       </images>
     </car>
     <car>
@@ -177,6 +187,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G84T1006122/7/full.webp?v=555fab0a2ec3</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G84T1006122/8/full.webp?v=8e0d6366791b</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G84T1006122/9/full.webp?v=04cb3d0061aa</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G84T1006122/10/full.webp?v=915d19f5801d</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G84T1006122/11/full.webp?v=c12df9a65bcb</image>
       </images>
     </car>
     <car>
@@ -207,6 +219,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G86T1006168/7/full.webp?v=a3f8fb7c555b</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G86T1006168/8/full.webp?v=11619446ec41</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G86T1006168/9/full.webp?v=412327ffc9b4</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G86T1006168/10/full.webp?v=7c5fdf9f9f08</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G86T1006168/11/full.webp?v=58ac1ccc2f96</image>
       </images>
     </car>
     <car>
@@ -237,6 +251,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G87T1004901/7/full.webp?v=7ff51b23794e</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G87T1004901/8/full.webp?v=2ce802d0a9ad</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G87T1004901/9/full.webp?v=50e922dc9ef4</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G87T1004901/10/full.webp?v=d2bf2211e90e</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G87T1004901/11/full.webp?v=316c153eb715</image>
       </images>
     </car>
     <car>
@@ -267,6 +283,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L82S3147751/7/full.webp?v=95b74b00b2ef</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L82S3147751/8/full.webp?v=883d4664a89a</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L82S3147751/9/full.webp?v=7355c567ac69</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L82S3147751/10/full.webp?v=d11bc885753e</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L82S3147751/11/full.webp?v=b01f7cd82755</image>
       </images>
     </car>
     <car>
@@ -297,6 +315,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L83S3147886/7/full.webp?v=8795a7a9b37a</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L83S3147886/8/full.webp?v=cc94404ff157</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L83S3147886/9/full.webp?v=74bcb29529e0</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L83S3147886/10/full.webp?v=59065baf6f8c</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGBB1L83S3147886/11/full.webp?v=eb999dbbc26f</image>
       </images>
     </car>
     <car>
@@ -317,15 +337,8 @@
       <run>30</run>
       <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/1/full.webp?v=d3e6a45eef3b</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/2/full.webp?v=0f14d261101f</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/3/full.webp?v=cb278063850e</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/4/full.webp?v=f5a288e98c29</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/5/full.webp?v=a2739f34b395</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/6/full.webp?v=38b01e321e7e</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/7/full.webp?v=8945ae48dba8</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/8/full.webp?v=3582f584f362</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=e4c06334cbbd</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/1/full.webp?v=6083e88ffe09</image>
       </images>
     </car>
     <car>
@@ -345,15 +358,8 @@
       <run>1</run>
       <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/0/full.webp?v=06a104f41d44</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/1/full.webp?v=d3e6a45eef3b</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/2/full.webp?v=0f14d261101f</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/3/full.webp?v=cb278063850e</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/4/full.webp?v=f5a288e98c29</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/5/full.webp?v=a2739f34b395</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/6/full.webp?v=38b01e321e7e</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/7/full.webp?v=8945ae48dba8</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S85T1000513/8/full.webp?v=3582f584f362</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S89T1000532/0/full.webp?v=f53eaf2b2ec3</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJF3S89T1000532/1/full.webp?v=e12c62f6fc35</image>
       </images>
     </car>
     <car>
@@ -384,6 +390,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G53T1068121/7/full.webp?v=8aabd8bfd413</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G53T1068121/8/full.webp?v=d0616a15ea32</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G53T1068121/9/full.webp?v=932a5bf83516</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G53T1068121/10/full.webp?v=6249fb18e596</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G53T1068121/11/full.webp?v=503c97bc0e3d</image>
       </images>
     </car>
     <car>
@@ -414,6 +422,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G5XT1067810/7/full.webp?v=3327344be6e4</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G5XT1067810/8/full.webp?v=92ea3af69bf1</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G5XT1067810/9/full.webp?v=3c3adf915fc4</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G5XT1067810/10/full.webp?v=8bd3bd38d5e0</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G5XT1067810/11/full.webp?v=1b258429fe16</image>
       </images>
     </car>
     <car>
@@ -444,6 +454,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G82T1061591/7/full.webp?v=89bbb862da0e</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G82T1061591/8/full.webp?v=06ec9bd94a54</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G82T1061591/9/full.webp?v=9167e8b4f913</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G82T1061591/10/full.webp?v=d24980719aaf</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G82T1061591/11/full.webp?v=fd4e911b293b</image>
       </images>
     </car>
     <car>
@@ -474,6 +486,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/7/full.webp?v=3e084282917c</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/8/full.webp?v=f7a898425be7</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/9/full.webp?v=7b644be740a9</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/10/full.webp?v=818a8973fed2</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G83T1064628/11/full.webp?v=e9b72b7de54d</image>
       </images>
     </car>
     <car>
@@ -504,6 +518,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1063688/7/full.webp?v=098f4cd85ebe</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1063688/8/full.webp?v=9c55cfb1fed0</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1063688/9/full.webp?v=a0b59ab7ce75</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1063688/10/full.webp?v=fd9cb5ac37ec</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1063688/11/full.webp?v=92aeff388239</image>
       </images>
     </car>
     <car>
@@ -534,6 +550,7 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1064808/7/full.webp?v=172ba2e790f6</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1064808/8/full.webp?v=98449afa80ca</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1064808/9/full.webp?v=ab7171c1efa5</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G85T1064808/10/full.webp?v=d139ff8fdf6b</image>
       </images>
     </car>
     <car>
@@ -564,6 +581,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G86T1065417/7/full.webp?v=da18bab37ddd</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G86T1065417/8/full.webp?v=9f5667c575fd</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G86T1065417/9/full.webp?v=63889612b7a7</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G86T1065417/10/full.webp?v=bddb66fcc9a3</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G86T1065417/11/full.webp?v=6d4c182f528e</image>
       </images>
     </car>
     <car>
@@ -594,6 +613,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G87T1064874/7/full.webp?v=1b3ecfda690a</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G87T1064874/8/full.webp?v=49a233345d14</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G87T1064874/9/full.webp?v=48bf65840028</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G87T1064874/10/full.webp?v=7656d8c6c3c4</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G87T1064874/11/full.webp?v=8564f178a13c</image>
       </images>
     </car>
     <car>
@@ -624,6 +645,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1061384/7/full.webp?v=c25383fffdbe</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1061384/8/full.webp?v=137895566ea2</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1061384/9/full.webp?v=668b7d9be547</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1061384/10/full.webp?v=60daa2b049f8</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1061384/11/full.webp?v=52e69c9bd337</image>
       </images>
     </car>
     <car>
@@ -654,6 +677,29 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1065998/7/full.webp?v=ca076d5e34bb</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1065998/8/full.webp?v=10e87c34c58d</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1065998/9/full.webp?v=e827577c84ce</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1065998/10/full.webp?v=2136bf646205</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G88T1065998/11/full.webp?v=37c0d12c40fc</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G89T1066285</unique_id>
+      <url>https://gac-sar.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G89T1066285</vin>
+      <price>5349000</price>
+      <sale_price>4249000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1100000</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G89T1066285/0/full.webp?v=143f59b16e65</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G89T1066285/1/full.webp?v=49cb88dafea1</image>
       </images>
     </car>
     <car>
@@ -684,6 +730,8 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/7/full.webp?v=c60d469ef2e3</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/8/full.webp?v=4ab4e2990cc6</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/9/full.webp?v=2e1c3280d91a</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/10/full.webp?v=899db75690e2</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/11/full.webp?v=3f3578803c42</image>
       </images>
     </car>
     <car>
@@ -703,16 +751,8 @@
       <run>1</run>
       <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/0/full.webp?v=5592cb80f94d</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/1/full.webp?v=48e1f15fd319</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/2/full.webp?v=b772f14b1a67</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/3/full.webp?v=5bf25689cc27</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/4/full.webp?v=6747df9bc191</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/5/full.webp?v=bafa378cf280</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/6/full.webp?v=10514d0d18f6</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/7/full.webp?v=c60d469ef2e3</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/8/full.webp?v=4ab4e2990cc6</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1062214/9/full.webp?v=2e1c3280d91a</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1066442/0/full.webp?v=405b321c6343</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGJU3G8XT1066442/1/full.webp?v=f1b6317c8663</image>
       </images>
     </car>
     <car>
@@ -743,6 +783,29 @@
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGMU1G8XT1318546/7/full.webp?v=282576e0f245</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGMU1G8XT1318546/8/full.webp?v=73965abe2fdc</image>
         <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGMU1G8XT1318546/9/full.webp?v=900ebd800543</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGMU1G8XT1318546/10/full.webp?v=83afb1958f4c</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGMU1G8XT1318546/11/full.webp?v=52e905e3593c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGNC3S83T1002223</unique_id>
+      <url>https://gac-sar.ru/cars/gac-s7-15hyb-at-340-hp-4wd-sx-premium-green-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S7</folder_id>
+      <year>2026</year>
+      <vin>LMGNC3S83T1002223</vin>
+      <price>6249000</price>
+      <sale_price>5799000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>450000</max_benefit>
+      <color>зеленый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac S7, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGNC3S83T1002223/0/full.webp?v=e24db4697351</image>
+        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGNC3S83T1002223/1/full.webp?v=c15e23abeaa8</image>
       </images>
     </car>
   </cars>
