@@ -177,41 +177,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGAE3G82T1004692</unique_id>
-      <url>https://gac-sar.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS4</folder_id>
-      <year>2026</year>
-      <vin>LMGAE3G82T1004692</vin>
-      <price>3949000</price>
-      <sale_price>3099000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>850000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>6</run>
-      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/0/full.webp?v=236e56868733</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/1/full.webp?v=ce2df0cdaa65</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/2/full.webp?v=57079582f984</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/3/full.webp?v=ef6d7f91f8eb</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/4/full.webp?v=7242b5c918e9</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/5/full.webp?v=5a0ae8316bce</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/6/full.webp?v=90a90bd2eb11</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/7/full.webp?v=1be111b8d258</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/8/full.webp?v=be9be805d2ae</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/9/full.webp?v=682ca5e4417e</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/10/full.webp?v=19d3ed1a1531</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/11/full.webp?v=12a6a5401af3</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/12/full.webp?v=e508599a3afd</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/13/full.webp?v=638a4d17c8f8</image>
-        <image>https://img.upspace.ru/cars/gac-sar.ru/new/LMGAE3G82T1004692/14/full.webp?v=3631289791ed</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGAE3G84T1006122</unique_id>
       <url>https://gac-sar.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</url>
       <mark_id>Gac</mark_id>
